@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkportfolio"]=self["webpackChunkportfolio"]||[]).push([[960],{4960:function(n,t,r){r.r(t),r.d(t,{default:function(){return l}});var a=r(3396);const e=n=>((0,a.dD)("data-v-7968f6f2"),n=n(),(0,a.Cn)(),n),o={class:"wrapper"},f=e((()=>(0,a._)("h1",null,"Contact Views Page",-1))),c=[f];function s(n,t){return(0,a.wg)(),(0,a.iD)("div",o,c)}var u=r(89);const i={},d=(0,u.Z)(i,[["render",s],["__scopeId","data-v-7968f6f2"]]);var l=d}}]);
+//# sourceMappingURL=960.9a712d7a.js.map
